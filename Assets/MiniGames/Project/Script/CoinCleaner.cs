@@ -3,7 +3,7 @@ using UnityEngine;
 public class CoinCleaner : MonoBehaviour
 {
     public float checkInterval = 0.2f;        // Temps entre les vérifications
-    public float minY = -1.5f;               // Position trop basse = pièce supprimée
+    public float minY = -3.5f;               // Position trop basse = pièce supprimée
     public float raycastDistance = 0.1f;    // Distance du raycast vers le bas
 
     private void Start()

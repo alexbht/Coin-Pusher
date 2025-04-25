@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Power up
   - Ennemy
+  - Backwall
+  - BackWall
   layers:
   - Default
   - TransparentFX
