@@ -8,6 +8,14 @@ TagManager:
   - Ennemy
   - Backwall
   - BackWall
+  - Chip1
+  - Chip2
+  - Chip3
+  - Chip5
+  - Chip10
+  - CoinEuro
+  - CoinStar
+  - CoinLincoln
   layers:
   - Default
   - TransparentFX
